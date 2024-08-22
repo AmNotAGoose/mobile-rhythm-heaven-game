@@ -1,0 +1,20 @@
+[Header]
+Title: test
+Artist: test
+BPM: 100
+Offset: 1000
+
+[Timing]
+0: 100
+2000: 200
+4000: 100
+
+[Notes]
+1100: 0
+1200: 1
+1300: 0
+1400: 0
+1500: 1
+
+[Events]
+1200: 1
